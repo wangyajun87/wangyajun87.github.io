@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://localhost:4000</id>
+    <id>https://wangyajun87.github.io/</id>
     <title>雨</title>
-    <updated>2019-12-28T08:43:42.779Z</updated>
+    <updated>2019-12-28T09:02:24.433Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="http://localhost:4000"/>
-    <link rel="self" href="http://localhost:4000/atom.xml"/>
+    <link rel="alternate" href="https://wangyajun87.github.io/"/>
+    <link rel="self" href="https://wangyajun87.github.io//atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>http://localhost:4000/images/avatar.png</logo>
-    <icon>http://localhost:4000/favicon.ico</icon>
+    <logo>https://wangyajun87.github.io//images/avatar.png</logo>
+    <icon>https://wangyajun87.github.io//favicon.ico</icon>
     <rights>All rights reserved 2019, 雨</rights>
     <entry>
         <title type="html"><![CDATA[hhhhhh]]></title>
-        <id>http://localhost:4000/post/hhhhhh</id>
-        <link href="http://localhost:4000/post/hhhhhh">
+        <id>https://wangyajun87.github.io//post/hhhhhh</id>
+        <link href="https://wangyajun87.github.io//post/hhhhhh">
         </link>
         <updated>2019-12-27T09:25:56.000Z</updated>
         <content type="html"><![CDATA[<p>uuuuuuu</p>
@@ -21,8 +21,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>http://localhost:4000/post/hello-gridea</id>
-        <link href="http://localhost:4000/post/hello-gridea">
+        <id>https://wangyajun87.github.io//post/hello-gridea</id>
+        <link href="https://wangyajun87.github.io//post/hello-gridea">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
